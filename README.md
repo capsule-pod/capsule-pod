@@ -1,5 +1,5 @@
 Hi we are team capsule our aim /solution is that we have innovated a vehicle which has the potential to be the next technological change in our indian history 
-our idea uses vtol ( vertical take of and landing) tech to fly like both helicopter and airplane to replace both air and road ways , also uses thrust vectoring engines if possible to steerwhat does it solve ? whats the use of it are the fundamental questions being asked to us 
+our idea uses vtol ( vertical take of and landing) tech to fly like both helicopter and airplane to replace both air and road ways , also uses thrust vectoring engines if possible to steer
 we divide the construction of the prototype into 3 phases
 1.framing:manufacturing of frame play a key role a of the entire vehicle and it works as a backbone of thevehicle making it durableand strong while being  lightweight so we choosen carbon fibre or polycarbonate steel 
 2.hardware:hardware plays the role of mechanicall function of a pod , most ofthe flights equipment such astransponder communications,altimeter for height spedometer sensors to detect other airplanes near by,flightpath calculators hydraulics for actuators,fly by wire system,thrust vectoring 4 part electric engine, solid state battery which will be placed either on front of back or around the frame after every other hardware is done
