@@ -22,6 +22,6 @@ cost to produce one is similar to that of car starting at 5 or 6 lakhs.
 monitoring services helps keep this safe at all costs 
 logistics can also be transferred the way it used  to but it now travels through air rather than road increasing logistics, time and profits.
 
-
+the link below is our reference model although the perfected one will be uploaded soon in this link
 
 [github.pptx](https://github.com/user-attachments/files/17075757/github.pptx)
