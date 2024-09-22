@@ -24,4 +24,3 @@ logistics can also be transferred the way it used  to but it now travels through
 
 the link below is our reference model although the perfected one will be uploaded soon in this link
 
-[github.pptx](https://github.com/user-attachments/files/17075757/github.pptx)
