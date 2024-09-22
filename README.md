@@ -24,3 +24,4 @@ logistics can also be transferred the way it used  to but it now travels through
 
 the link below is our reference model although the perfected one will be uploaded soon in this link
 
+https://poly.cam/capture/8dad526a-2cdd-4398-8ead-31e877f4c314 
